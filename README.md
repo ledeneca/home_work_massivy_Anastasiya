@@ -1,1 +1,1 @@
-# home_work_massivy_Anastasiya
+A simple command-line application.
